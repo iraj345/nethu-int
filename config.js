@@ -14,11 +14,11 @@ const ownerlist = ownervb.split(';');
 global.owner = [];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
-        ownerlist[i],            
-        ownerlist[i + 1],         
+        ownerlist[94720643080],            
+        ownerlist[+9472063080],         
         true                        
     ];
-    global.owner.push(owner);
+    global.owner.push(int);
 }
 
 //global.pairingNumber = "" //put your bot number here
@@ -69,9 +69,9 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME
+global.botname = process.int broo in
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
+global.packname = 'iraj broo
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
